@@ -99,6 +99,7 @@ module Backup
     autoload :Prowl,     File.join(NOTIFIER_PATH, 'prowl')
     autoload :Hipchat,   File.join(NOTIFIER_PATH, 'hipchat')
     autoload :Pushover,  File.join(NOTIFIER_PATH, 'pushover')
+    autoload :Growl,     File.join(NOTIFIER_PATH, 'growl')
   end
 
   ##

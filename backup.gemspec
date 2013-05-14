@@ -31,6 +31,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'faraday', '= 0.8.7'
   gem.add_dependency 'fog', '= 1.10.1'
   gem.add_dependency 'formatador', '= 0.2.4'
+  gem.add_dependency 'growl', '= 1.0.3'
   gem.add_dependency 'hipchat', '= 0.8.0'
   gem.add_dependency 'httparty', '= 0.11.0'
   gem.add_dependency 'i18n', '= 0.6.4'

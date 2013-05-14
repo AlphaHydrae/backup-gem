@@ -25,6 +25,7 @@ GEM
       rspec (~> 2.0)
       rspec-instafail (~> 0.2.0)
       ruby-progressbar (~> 1.0.0)
+    growl (1.0.3)
     guard (1.8.0)
       formatador (>= 0.2.4)
       listen (>= 1.0.0)
@@ -110,6 +111,7 @@ DEPENDENCIES
   dropbox-sdk (= 1.5.1)
   fog
   fuubar
+  growl
   guard
   guard-rspec
   hipchat

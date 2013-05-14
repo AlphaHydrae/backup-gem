@@ -125,6 +125,7 @@ Supported notification services include:
 - Prowl
 - Hipchat
 - Pushover
+- Growl
 
 
 ## Generators
